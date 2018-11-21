@@ -1,0 +1,1 @@
+<button class="button" onclick="call(logall), views(2)"> Näytä kaikki </button>
